@@ -16,6 +16,6 @@ And the topics you want to favorite mention that in run.py with space seperated.
 
 <code> $ python run.py </code>
 
-and it will favorite the tweets and you can see it in your account.
+and it will favorite the tweets and you can see it in your account and don't forgeet to follow me <a href="https://twitter.com/rahulrrixe"> @RahulRRixe </a>.
 
 Caution: Do not run it continuously because twitter will considered it spam and will block your your account.
