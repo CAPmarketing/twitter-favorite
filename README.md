@@ -9,7 +9,7 @@ profile and may be follow you. So the above project does the same thing.
 
 So to start using it:
 
-First of all go to twitter developer site and get your authorisation token for your account with write permission.
+First of all go to twitter developer site and get your authorisation token for your account but sign for write permission app.
 Then add those to the code in twitterfav.py.
 
 And the topics you want to favorite mention that in run.py with space seperated. Now simply type <br/>
